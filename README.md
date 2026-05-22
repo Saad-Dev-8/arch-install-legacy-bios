@@ -315,3 +315,7 @@ This confirms the full Clover UEFI Environment.
 ---
 
 - This Installation was tested in a **HP Compaq DC7900 Convertible Minitower**
+
+![Computer](./hp-computer.jpg)
+
+![bootctl](./hp-bootctl.png)
